@@ -65,3 +65,11 @@ Usually when I feel unheard after already raising an issue once. Instead of brin
 - Address small issues early instead of letting them build up.
 - Stay open to the other person's response while still holding my point.
 - Practice saying no respectfully, without over-explaining or over-apologizing.
+
+## References
+
+- Active Listening - https://www.youtube.com/watch?v=rzsVh8YwZEQ
+- Types of Communication - https://www.youtube.com/watch?v=mixJEpGTvGw
+- Spongebob Assertiveness Training - https://www.youtube.com/watch?v=SYuboi4GWO4
+- Tips on Assertive Communication - https://www.youtube.com/watch?v=vlwmfiCb-vc
+
