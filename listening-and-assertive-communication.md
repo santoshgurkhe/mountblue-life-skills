@@ -1,31 +1,48 @@
-## Question 1: Steps to Active Listening
+## Question 1: Active Listening Strategies (as per the video)
 
-1. **Pay full attention** — put away your phone, stop multitasking, focus only on the speaker.
-2. **Keep eye contact & open posture** — nod, lean in, show you're engaged.
-3. **Don't interrupt** — let them finish their thought fully.
-4. **Paraphrase back** — repeat what you heard in your own words to confirm.
-5. **Ask clarifying questions** — instead of assuming what they mean.
-6. **Avoid judging too early** — listen to understand, not to react.
-7. **Notice tone & body language** — not just the words spoken.
-8. **Give small verbal cues** — "okay," "I see," "got it" to show you're following.
+1. **Pay attention** — Give the speaker your undivided attention, make eye contact, and put aside distracting thoughts.
+2. **Show that you're listening** — Use body language like nodding, smiling, and an open posture to signal engagement.
+3. **Provide feedback** — Reflect on what's being said and paraphrase it back to confirm understanding.
+4. **Defer judgment** — Let the speaker finish without interrupting or jumping to conclusions.
+5. **Respond appropriately** — Be honest, open, and respectful when you do reply.
+6. **Ask clarifying questions** — When something isn't clear, ask instead of assuming what they meant.
 
-## Question 2: Fisher's Model of Reflective Listening
+#### Question 2
 
-- **Reflect the content** — repeat back the main facts of what was said, in your own words.
-- **Reflect the feeling** — notice and name the emotion behind it (e.g. "sounds like that upset you").
-- **Reflect the meaning** — connect the facts and feelings to understand why it matters to them.
-- **Check for accuracy** — ask if you understood correctly, and fix it if you didn't.
+According to Fisher's model, the key points of Reflective Listening are:
 
-In simple words: hear it, feel it, understand it, then confirm it with the person.
+1. **Listen carefully** – Pay attention to what the other person is saying.
+2. **Understand the message** – Understand the person's words and feelings.
+3. **Repeat in your own words** – Say what you understood using your own words.
+4. **Confirm your understanding** – Ask if you understood the person correctly.
+5. **Clear misunderstandings** – Correct any misunderstanding before moving forward.
 
-## Question 4: What I Can Do to Improve My Listening
+### Question 3
 
-- Take notes during important conversations so details aren't lost.
-- Pause before replying instead of jumping in.
-- Ask more clarifying questions instead of assuming.
-- Put away my phone and avoid multitasking while listening.
-- Paraphrase back what I heard to make sure I understood correctly.
-- Practice patience and stay present instead of thinking ahead to my response.
+**What are the obstacles in your listening process?**
+
+Some obstacles in my listening process are:
+
+* Getting distracted by my phone or other things.
+* Thinking about what I want to say next instead of listening.
+* Making assumptions before the person finishes speaking.
+* Not paying enough attention to small details.
+* Sometimes losing focus during long or technical discussions.
+* Misunderstanding the speaker's meaning or emotions.
+
+### Question 4
+
+**What can you do to improve your listening?**
+
+I can improve my listening by:
+
+* Giving the speaker my full attention.
+* Avoiding distractions while listening.
+* Taking notes when necessary.
+* Asking questions when I do not understand something.
+* Repeating important points in my own words to confirm my understanding.
+* Being patient and allowing the speaker to finish before responding.
+* Focusing on both the speaker's words and emotions.
 
 ## Question 5: When I Switch to Passive Communication
 
