@@ -1,75 +1,56 @@
-## Question 1: Active Listening Strategies (as per the video)
+# Listening and Active Communication
 
-1. **Pay attention** — Give the speaker your undivided attention, make eye contact, and put aside distracting thoughts.
-2. **Show that you're listening** — Use body language like nodding, smiling, and an open posture to signal engagement.
-3. **Provide feedback** — Reflect on what's being said and paraphrase it back to confirm understanding.
-4. **Defer judgment** — Let the speaker finish without interrupting or jumping to conclusions.
-5. **Respond appropriately** — Be honest, open, and respectful when you do reply.
-6. **Ask clarifying questions** — When something isn't clear, ask instead of assuming what they meant.
+## Question 1: What are the steps or strategies to do Active Listening?
 
-#### Question 2
+1. Pay full attention when someone is speaking.
+2. Look at the speaker and show that you are listening.
+3. Let the person finish speaking without interrupting.
+4. Ask questions if something is not clear.
+5. Do not judge the person before understanding their point.
+6. Repeat the important points to make sure you understood correctly.
 
-According to Fisher's model, the key points of Reflective Listening are:
+## Question 2: According to Fisher's model, what are the key points of Reflective Listening?
 
-1. **Listen carefully** – Pay attention to what the other person is saying.
-2. **Understand the message** – Understand the person's words and feelings.
-3. **Repeat in your own words** – Say what you understood using your own words.
-4. **Confirm your understanding** – Ask if you understood the person correctly.
-5. **Clear misunderstandings** – Correct any misunderstanding before moving forward.
+Reflective listening means paying attention to what the person says and how they feel.  
+We should repeat the main point and check whether we understood the message correctly.
 
-### Question 3
+## Question 3: What are the obstacles in your listening process?
 
-**What are the obstacles in your listening process?**
+Sometimes I get distracted by my phone or things happening around me.  
+I also start thinking about my answer before the other person finishes speaking.
 
-Some obstacles in my listening process are:
+## Question 4: What can you do to improve your listening?
 
-* Getting distracted by my phone or other things.
-* Thinking about what I want to say next instead of listening.
-* Making assumptions before the person finishes speaking.
-* Not paying enough attention to small details.
-* Sometimes losing focus during long or technical discussions.
-* Misunderstanding the speaker's meaning or emotions.
+Keeping distractions away can help me focus better on the speaker.  
+I can also ask questions and take notes when there are important points to remember.
 
-### Question 4
+## Question 5: When do you switch to Passive communication style in your day-to-day life?
 
-**What can you do to improve your listening?**
+I become passive when I do not want to argue or hurt someone's feelings.  
+Sometimes I keep my opinion to myself when I do not feel confident enough to speak.
 
-I can improve my listening by:
+## Question 6: When do you switch into Aggressive communication styles in your day-to-day life?
 
-* Giving the speaker my full attention.
-* Avoiding distractions while listening.
-* Taking notes when necessary.
-* Asking questions when I do not understand something.
-* Repeating important points in my own words to confirm my understanding.
-* Being patient and allowing the speaker to finish before responding.
-* Focusing on both the speaker's words and emotions.
+I may become aggressive when I am very frustrated or feel that someone is ignoring me.  
+During an argument, I might speak loudly or use a harsh tone without thinking.
 
-## Question 5: When I Switch to Passive Communication
+## Question 7: When do you switch into Passive Aggressive communication styles in your day-to-day life?
 
-I go passive mostly when I want to avoid conflict — like agreeing to extra work even when I'm already busy, or staying quiet in a meeting when I disagree, just to avoid seeming difficult.
+When I am upset, sometimes I stay silent or give short answers instead of talking about the problem.  
+I may also use sarcasm when I am angry but do not want to say it directly.
 
-## Question 6: When I Switch to Aggressive Communication
+## Question 8: How can you make your communication assertive?
 
-This mostly happens under stress or tight deadlines — when repeated mistakes or delays start piling up and affecting my own work, and I react sharply before calming down.
-
-## Question 7: When I Switch to Passive-Aggressive Communication
-
-Usually when I feel unheard after already raising an issue once. Instead of bringing it up again directly, it comes out as sarcasm, short replies, or venting to someone else rather than the person involved.
-
-## Question 8: Steps to Be More Assertive
-
-- Use "I" statements instead of blaming — say how it affected me, not what's wrong with them.
-- State facts calmly, not accusations.
-- Be clear about exactly what I need instead of hinting.
-- Keep my tone steady — assertive is about clarity, not volume.
-- Address small issues early instead of letting them build up.
-- Stay open to the other person's response while still holding my point.
-- Practice saying no respectfully, without over-explaining or over-apologizing.
+1. Listen to the other person fully before giving my response.
+2. Share my opinion calmly without getting angry or shouting.
+3. Explain my point properly when I disagree with someone.
+4. Say no politely when I am not comfortable with something.
+5. Respect other opinions, even when I have a different view.
+6. Speak openly about my feelings instead of keeping them inside.
 
 ## References
 
-- Active Listening - https://www.youtube.com/watch?v=rzsVh8YwZEQ
-- Types of Communication - https://www.youtube.com/watch?v=mixJEpGTvGw
-- Spongebob Assertiveness Training - https://www.youtube.com/watch?v=SYuboi4GWO4
-- Tips on Assertive Communication - https://www.youtube.com/watch?v=vlwmfiCb-vc
-
+- Active Listening: https://www.youtube.com/watch?v=rzsVh8YwZEQ
+- Types of Communication: https://www.youtube.com/watch?v=mixJEpGTvGw
+- Spongebob Assertiveness Training: https://www.youtube.com/watch?v=SYuboi4GWO4
+- Tips on Assertive Communication: https://www.youtube.com/watch?v=vlwmfiCb-vc

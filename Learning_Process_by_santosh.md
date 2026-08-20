@@ -3,12 +3,12 @@
 ## Q1. What is the Feynman Technique?
 Basically, you understand something properly only when you can explain it in simple words to someone who knows nothing about it — if you get stuck explaining, that's the part you actually don't understand yet.
 
-## Q2. Most interesting story/idea from Barbara Oakley's talk
+## Q2. Most interesting story from Barbara Oakley's talk
 For me it was her own story — she was terrible at math and science in school, even failed subjects and struggled in the military, and later she went back and actually became an engineering professor. I found that really relatable because it shows that being "bad" at a subject isn't permanent, you can literally retrain your brain if you put in the right kind of practice.
 
 ## Q3. Active and diffused modes of thinking
-- **Active/focused mode** — sitting down and directly concentrating on a problem, working through it step by step.
-- **Diffused mode** — the relaxed background thinking that happens when you're not actively trying, like when you're walking, in the shower, or about to sleep. That's when random connections happen and things suddenly click.
+- Active/focused mode - sitting down and directly concentrating on a problem, working through it step by step.
+- Diffused mode — the relaxed background thinking that happens when you're not actively trying, like when you're walking, in the shower, or about to sleep. That's when random connections happen and things suddenly click.
 
 So basically, good learning = switch between focusing hard on something, then stepping away and letting your brain chew on it in the background.
 
@@ -24,6 +24,13 @@ So basically, good learning = switch between focusing hard on something, then st
 - Take proper breaks after focused study sessions instead of grinding non-stop — give my brain time to process in the background.
 - Keep my phone on silent and off my desk during work hours, no random social media checking.
 - Track how much actual focused time I'm putting into a topic, not just "time spent."
-- Follow the where-is-it-used → what-is-it → how-do-I-code-it → deadline approach for every new concept.
+- Follow the where-is-it-used, what-is-it, how-do-I-code-it, deadline approach for every new concept.
 - Ask for help or flag blockers early instead of sitting on them quietly.
 - Try teaching what I learned to someone else (or even just pretend-explain it) to test if I really get it.
+
+## References
+
+- Feynman Technique - https://www.youtube.com/watch?v=_f-qkGJBPts
+- Learning How to Learn TED talk by Barbara Oakley - https://www.youtube.com/watch?v=O96fE1E-rf8
+- Learn Anything in 20 hours - https://www.youtube.com/watch?v=5MgBikgcWnY
+

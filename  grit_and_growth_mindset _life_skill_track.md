@@ -1,30 +1,37 @@
-# Grit and Growth Mindset – My Answers
+# Grit and Growth Mindset
 
-**Q1. Grit (Angela Lee Duckworth)**
-This talk is about how success isn't really about talent or IQ — it's about grit, which means sticking to your goals with passion and not giving up even when things get tough. Duckworth says grit matters way more than natural talent when it comes to achieving long-term goals.
+## Question 1: Paraphrase the Grit video.
 
-**Q2. Introduction to Growth Mindset**
-This video explains two ways people think about their abilities — a fixed mindset, where you believe you're either good at something or not, and a growth mindset, where you believe you can get better with effort and practice. It shows why the growth mindset way of thinking leads to more learning and improvement over time.
+The video explains that success is not only about talent. Grit means having a goal and continuing to work hard even when things become difficult or take a long time.
 
-**Q3. Internal Locus of Control**
-Internal locus of control means believing that you control your own outcomes through your effort and choices, instead of blaming luck or other people when things go wrong. The key point of the video is that once you take ownership of your actions, you naturally become more motivated because you know your effort actually makes a difference.
+## Question 2: Paraphrase the Introduction to Growth Mindset video.
 
-**Q4. Key points to build a Growth Mindset**
-- Embrace challenges instead of running from them
-- Treat effort as the way to get better, not a waste of time
-- Take feedback and criticism positively
-- Learn from others' success instead of feeling threatened by it
-- See failure as part of learning, not the end
-- Say "not yet" instead of "I can't"
+The video explains that we can improve our skills through learning and practice. We should see mistakes and challenges as chances to learn and become better.
 
-**Q5. My ideas to build a Growth Mindset as a developer**
-I want to stop being scared of bugs and errors and instead treat them as part of learning to code better. I'll also start asking for feedback on my code more often instead of avoiding it, and remind myself to say "I don't know this yet" whenever I feel stuck on something new.
+## Question 3: What is the Internal Locus of Control? What is the key point in the video?
 
----
+Internal Locus of Control means believing that our actions and efforts can affect our results. The main point is to focus on what we can control instead of blaming other people or situations.
 
-**References**
-1. Duckworth, A. (2013). *Grit: The power of passion and perseverance* [Video]. TED. https://www.youtube.com/watch?v=H14bBuluwB8
-2. *Growth Mindset Introduction: What it is, How it Works, and Why it Matters* [Video]. YouTube. https://www.youtube.com/watch?v=75GFzikmRY0
-3. *How to stay motivated – The Locus Rule* [Video]. YouTube. https://www.youtube.com/watch?v=8ZhoeSaPF-k
-4. *How to build a Growth Mindset* [Video]. YouTube. https://www.youtube.com/watch?v=9DVdclX6NzY
-5. *Mindset – A MountBlue Warrior Reference Manual* [Google Doc]. https://docs.google.com/document/d/1SPUqC-8WwfiDlsRGKWqoMtC14v6_2TEhq7LZs29bJWk
+## Question 4: What are the key points mentioned by the speaker to build a Growth Mindset?
+
+1. Believe that you can learn and improve.
+2. Accept challenges instead of avoiding them.
+3. Learn from mistakes and failures.
+4. Keep trying when things become difficult.
+5. Take feedback and use it to improve.
+6. Focus on progress and learning.
+
+## Question 5: What are your ideas to take action and build Growth Mindset?
+
+1. I will try to set small goals and complete them step by step.
+2. If I make a mistake, I will understand what went wrong and try again.
+3. I will ask others for feedback when I need help to improve.
+4. Instead of avoiding difficult tasks, I will try to learn from them.
+5. When I don't know something, I will spend more time learning and practicing it.
+
+## References
+
+1. Grit Video - https://www.youtube.com/watch?v=H14bBuluwB8
+2. Introduction to Growth Mindset Video - https://www.youtube.com/watch?v=75GFzikmRY0
+3. The Locus Rule - https://www.youtube.com/watch?v=8ZhoeSaPF-k
+4. How to build a Growth Mindset Video - https://www.youtube.com/watch?v=9DVdclX6NzY
