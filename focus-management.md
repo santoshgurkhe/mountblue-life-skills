@@ -21,3 +21,7 @@ For example, solving a difficult coding problem without checking your phone is d
 2. Seeing perfect lives online can make me feel bad about myself and cause sadness.
 3. Social media gives quick rewards that can make it harder for my brain to stay focused.
 4. Using social media too much can increase stress and anxiety.
+
+## References
+- Summary of Deep Work Book - https://www.youtube.com/watch?v=gTaJhjQHcf8
+- Dangers of Social Media - https://www.youtube.com/watch?v=3E7hkPZ-HTk
