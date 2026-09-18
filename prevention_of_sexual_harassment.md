@@ -14,3 +14,9 @@ Sexual harassment can happen through words, actions, messages, or physical behav
 ## 2. What would you do if you face or witness such behaviour?
 
 If I face or witness such behaviour, I would not ignore it. I would first make it clear that the behaviour is not acceptable, if it is safe to do so. I would keep any messages or other evidence and report the incident to a manager, HR, or the appropriate person. If I witness it happening to someone else, I would support that person and encourage them to report it. Repeated incidents should also be reported instead of being treated as a small issue.
+
+
+## References
+
+- MountBlue PoSH Document - https://drive.google.com/file/d/1wrT03caeDwwKB50wV-MQ3hnm2wJZGuq2/view?usp=sharing
+- Sexual Harassment Overview - https://www.youtube.com/watch?v=Ue3BTGW3uRQ
